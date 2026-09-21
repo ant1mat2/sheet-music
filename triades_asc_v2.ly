@@ -2,7 +2,7 @@
 
 \header {
   title = "Triades ascendantes (Conduite de Voix Diatonique)"
-  subtitle = ""
+  subtitle = " "
   instrument = ""
   tagline = ##f
 }
