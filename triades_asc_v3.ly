@@ -13,10 +13,10 @@ harmonies = \chordmode {
   d1:m/f | b1:dim/f | g1 | e1:m/g | c1/g |
   a1:m | f1/a | d1:m/a | b1:dim | g1/b |
   e1:m/b | c1 | a1:m/c | f1/c | d1:m |
-  b1:dim/d | g1/d | e1:m | e2:m 
+  b1:dim/d | g1/d | e2:m  e2:m 
   
   % Groupe 2 : Cordes 5-4-3 
-  e2:m |
+ 
   c1/e | a1:m/e | f1/a | d1:m/f | b1:dim/f |
   g1/b | e1:m/b | c1 | a1:m/c | f1/c |
   d1:m/a | b1:dim | g2/b  g2/b |
@@ -40,7 +40,7 @@ romanNumerals = \lyricmode {
   "vii°⁶"1 "V⁶₄"1 "iii"1 "iii"2 
   
   % Groupe 2 : Cordes 5-4-3
-  "iii"2 "I⁶"1 "vi⁶₄"1 "IV⁶"1 "ii⁶"1 "vii°⁶₄"1
+ "I⁶"1 "vi⁶₄"1 "IV⁶"1 "ii⁶"1 "vii°⁶₄"1
   "V⁶"1 "iii⁶₄"1 "I"1 "vi⁶"1 "IV⁶₄"1
   "ii⁶₄"1 "vii°"1 "V⁶"2 ""2 
   
@@ -87,7 +87,7 @@ theNotes = {
   \break
 
   % --- 2. CORDES 5-4-3 ---
-  <e\5 g\4 c'\3>1 |    % m.20: C/E (7-5-5)
+ 
   <e\5 a\4 c'\3>1 |    % m.21: Am/E (7-7-5)
   <f\5 a\4 c'\3>1 |    % m.22: F/A (8-7-5)
   <f\5 a\4 d'\3>1 |    % m.23: Dm/F (8-7-7)
